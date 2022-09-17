@@ -13,6 +13,10 @@
         <failOnMissingWebXml>false</failOnMissingWebXml>
         <vaadin.version>8.0.0.alpha2</vaadin.version>
         <vaadin.plugin.version>${vaadin.version}</vaadin.plugin.version>
+	    
+	    <sonar.host.url>http://54.205.205.236:9000/</sonar.host.url>
+	<sonar.login>olawealth</sonar.login>
+	<sonar.password>admin123</sonar.password
     </properties>
 
     <repositories>
